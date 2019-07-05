@@ -1,0 +1,6 @@
+
+eks-nodes-key = "ssh-rsa AAAAB3NzaC1yc2EAAAADAQABAAABAQDFtLeR7h/wFRlTnVJHQCbN3ZygJfYy/rWfxtllRm+IYcD1+WxW7pINUBviBag8uIVQgeHn35IVCJuGYAyGceLxayI2qcv6c0Dx3a9DujmVwU8mKHWkjtO45SNMzQaNIwKZVlFKJkW9uD8d1XqE208R1+28xpo2s72439hmd0nc1FH8S7AL6QE0f/JNmrx00s0cRfizJ8ZCgHCypLZp8WD+ZQacQbEmZhy+5Ckg1pw9lZVKl3GwLVCz6LYZzbyLNzKXULpJ8DZVIwLSyniKczK1vnApJ70sVOt2BibGWWpTlFPMEXKrziu+f+gXizf/NN3ZlhZTmRsMeUqWsBWzyfWx eks-nodes-key"
+
+aws_region = "eu-west-1"
+
+external_public_ip = "86.165.185.14"
